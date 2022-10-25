@@ -1,3 +1,9 @@
+// Amardeep Mann
+// 10-25-22
+// GreaterThanLessThan Endpoint
+// Added the ability to take in an input via web URL for our GreaterThanLessThan function
+// Peer reviewed by
+
 using Microsoft.AspNetCore.Mvc;
 
 namespace MannASayHelloEndpoint.Controllers;
